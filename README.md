@@ -5,12 +5,11 @@ Jag är en engagerad utvecklare och studerar för närvarande till **systemutvec
 
 ## 🧑‍💻 Om mig
 
-- 🎓 Studerar till: **systemutvecklare**
-- 💼 Arbetar främst med: **C#, .NET Core, JavaScript, Python**
-- 💡 Har även erfarenhet av: **Java** och OCJ *(ange gärna om detta är Objective-C, OCaml eller något annat!)*
-- 🌱 Just nu fördjupar jag mig i: **cloudlösningar, moderna webbramverk och avancerad backend-utveckling**
+- 🎓 Studerar **systemutvecklare .NET**
+- 💼 Arbetar främst med: **C#, .NET Core, JavaScript**
+- 💡 Har även erfarenhet av: **Python** och OCJ *(ange gärna om detta är Objective-C, OCaml eller något annat!)*
 - 🤝 Jag samarbetar gärna kring: **fullstack-projekt, automation, API:er och integrationer**
-- 📫 Kontakta mig: [mejla här](mailto:din@email.se) eller [LinkedIn](https://linkedin.com/in/dinprofil)
+- 📫 Kontakta mig: ??? 
 
 ## ⚒️ Språk & Verktyg
 
