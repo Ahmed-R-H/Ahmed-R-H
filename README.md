@@ -26,13 +26,17 @@ Jag är en engagerad utvecklare och studerar för närvarande till **systemutvec
 
 ## 📁 Om mina repositories
 
-Här på GitHub hittar du projekt och källkod som speglar det jag lär mig och bygger under min utbildning till systemutvecklare, samt egna intresseprojekt. Bland mina repositories finns exempel på:
+Här hittar du projekt och källkod som jag utvecklat under min utbildning till systemutvecklare och egna intresseprojekt. 
 
-- Skolprojekt i C#, JavaScript, Python och Java
-- Webbutveckling och APIer
-- Automationsscript och småverktyg
-- Molnrelaterade uppgifter och övningar
-- Experimentella och personliga projekt för att testa nya tekniker
+- **C# (.NET)** – t.ex. konsolapplikationer, API:er, webbutveckling med ASP.NET samt användning av Entity Framework för datahantering
+- **JavaScript & TypeScript** – bland annat webbutveckling med HTML/CSS/JS, och TypeScript
+- **DevOps** – projekt med infrastruktur som kod, CI/CD och automatisering
+- **Databasteknik** – arbete med SQL-databaser och relationsdatabaser
+- **API-utveckling** – bygga och konsumera REST-API:er, integrationer mellan olika system
+- **Molnrelaterade lösningar** – exempelvis användning av molntjänster inom kursuppgifter
+- **Andra projekt** – egna experiment, små verktyg och lösningar för att testa nya teknologier och idéer
+
+De flesta av mina skolprojekt har varit på .NET-plattformen (C#), men jag har även jobbat med webbutveckling i JavaScript/TypeScript och med databaser.
 
 ---
 
