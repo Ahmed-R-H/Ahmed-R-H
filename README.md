@@ -1,23 +1,11 @@
-# 👋 Hey, I'm Ahmed
+# 👋 Hej
 
-<table>
-  <tr>
-    <td width="320" valign="top">
-      <img src="https://github.com/user-attachments/assets/854c899c-030f-491f-a98c-021997b0a684" width="280" alt="Profile image" />
-    </td>
-    <td valign="top">
-      <h3>Fullstack-utvecklare under utbildning</h3>
-      <hr/>
-      <h3>🚀 Om mig</h3>
-      <ul>
-        <li>🎓 Studerar till <strong>systemutvecklare .NET</strong></li>
-        <li>💼 Arbetar främst med: <strong>C#, .NET Core, JavaScript</strong></li>
-        <li>💡 Har även erfarenhet av: <strong>Python</strong> och OCJ</li>
-        <li>🤝 Samarbetar gärna kring: <strong>fullstack-projekt, automation, API:er och integrationer</strong></li>
-      </ul>
-    </td>
-  </tr>
-</table>
+## 🚀 Om mig
+
+- 🎓 Studerar till **systemutvecklare .NET**
+- 💼 Arbetar främst med: **C#, .NET Core, JavaScript**
+- 💡 Har även erfarenhet av: **Python** och OCJ
+- 🤝 Samarbetar gärna kring: **fullstack-projekt, automation, API:er och integrationer**
 
 ---
 
