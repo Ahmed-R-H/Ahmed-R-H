@@ -4,7 +4,7 @@
 
 - 🎓 Studerar till **systemutvecklare .NET**
 - 💼 Arbetar främst med: **C#, .NET Core, JavaScript**
-- 💡 Har även erfarenhet av: **Python** och OCJ
+- 💡 Har även erfarenhet av: **Python**.
 - 🤝 Samarbetar gärna kring: **fullstack-projekt, automation, API:er och integrationer**
 
 ---
