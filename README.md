@@ -1,6 +1,6 @@
 # 👋 Hej
 
-## 🚀 Om mig
+## 🚀 Om mig 
 
 - 🎓 Studerar till **systemutvecklare .NET**
 - 💼 Arbetar främst med: **C#, .NET Core, JavaScript**
