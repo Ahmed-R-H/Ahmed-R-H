@@ -25,9 +25,9 @@
 Här hittar du projekt och källkod som jag utvecklat under min utbildning till systemutvecklare och egna intresseprojekt.
 
 - **C# (.NET)** – konsolapplikationer, API:er, webbutveckling med ASP.NET och Entity Framework
-- **JavaScript & TypeScript** – webbutveckling med HTML/CSS/JS samt TypeScript
+- **JavaScript & TypeScript** – webbutveckling med HTML/CSS/JS.
 - **DevOps** – infrastruktur som kod, CI/CD och automatisering
-- **Databasteknik** – SQL-databaser och relationsdatabaser
+- **Databasteknik** – SQL/PostgreSQL-databaser och relationsdatabaser
 - **API-utveckling** – bygga och konsumera REST-API:er och integrationer
 - **Molnrelaterade lösningar** – användning av molntjänster i kursuppgifter
 - **Andra projekt** – egna experiment och mindre verktyg
